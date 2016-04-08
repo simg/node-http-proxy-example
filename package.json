@@ -1,0 +1,14 @@
+{
+  "name": "proxy",
+  "version": "0.0.1",
+  "description": "custom proxy server for holistic systems",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Gardner (slgard@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.0.2"
+  }
+}
